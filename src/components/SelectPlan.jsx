@@ -19,6 +19,8 @@ const Caja = styled.div`
     align-items: center;
     border: ${border} ;
     margin: 10px;
+    background-color: blue;
+    cursor: pointer;
     p{
       padding: 10px;
     }
